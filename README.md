@@ -1,2 +1,2 @@
 # janky-profiler
-A somewhat less horrible profiler. Use with geany to jump to hotspots in  your code
+A horrible profiler that is, sadly, better than most others. Basically a wrapper script for gdb bt. Output is formatted like lint mnessages so that you can jump to the offending file/line in your favorite editor
